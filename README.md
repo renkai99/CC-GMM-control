@@ -21,18 +21,6 @@ After installing the dependencies, simply run **main.m**.
 ## References of the work
 Please cite the original paper when using any part of this code. BibTeX citation data:
 ```
-@article{Ahn_2022_LCSS,
-   title={{Safe Motion Planning Against Multimodal Distributions Based on a Scenario Approach}},
-   volume={6},
-   ISSN={2475-1456},
-   DOI={10.1109/lcsys.2021.3089641},
-   journal={IEEE Control Systems Letters},
-   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
-   author={Ahn, Heejin and Chen, Colin and Mitchell, Ian M. and Kamgarpour, Maryam},
-   year={2022},
-   pages={1142–1147}
-}
-
 @ARTICLE{Ren_2023_LCSS,
   author={Ren, Kai and Ahn, Heejin and Kamgarpour, Maryam},
   journal={IEEE Control Systems Letters}, 
