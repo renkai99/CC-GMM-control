@@ -3,7 +3,9 @@ This repository contains the MATLAB source code used for reproducing the traject
 
 *K. Ren, H. Ahn and M. Kamgarpour, "Chance-Constrained Trajectory Planning With Multimodal Environmental Uncertainty," in IEEE Control Systems Letters, vol. 7, pp. 13-18, 2023.*
 
-*H. Ahn, C. Chen, I. M. Mitchell, and M. Kamgarpour, “Safe Motion Planning Against Multimodal Distributions Based on a Scenario Approach,” IEEE Control Systems Letters, vol. 6, p. 1142–1147, 2022.*
+<p align="center">
+  <img src="https://github.com/renkai99/renkai99.github.io/blob/main/assets/img/publication_preview/nuscenes.gif" width="45%" />
+</p>
 
 ## Dependencies
 The following dependencies need to be installed/configured and must be on the MATLAB path:
