@@ -1,4 +1,7 @@
 # LCSS-control
+
+[![DOI](https://img.shields.io/badge/DOI-10.1109/LCSYS.2022.3186269-green.svg)](https://doi.org/10.1109/LCSYS.2022.3186269) [![Preprint](https://img.shields.io/badge/Preprint-arXiv-blue.svg)](https://arxiv.org/abs/2503.06779)
+
 This repository contains the MATLAB source code used for reproducing the trajectory planning simulations in the LCSS papers titled:
 
 *K. Ren, H. Ahn and M. Kamgarpour, "Chance-Constrained Trajectory Planning With Multimodal Environmental Uncertainty," in IEEE Control Systems Letters, vol. 7, pp. 13-18, 2023.*
