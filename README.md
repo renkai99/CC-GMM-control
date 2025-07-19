@@ -1,4 +1,4 @@
-# LCSS-control
+# CC-GMM-control
 
 [![DOI](https://img.shields.io/badge/DOI-10.1109/LCSYS.2022.3186269-green.svg)](https://doi.org/10.1109/LCSYS.2022.3186269) [![Preprint](https://img.shields.io/badge/Preprint-arXiv-blue.svg)](https://arxiv.org/abs/2503.06779)
 
